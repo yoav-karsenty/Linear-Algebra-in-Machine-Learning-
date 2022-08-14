@@ -11,4 +11,4 @@ The Sure Tomorrow insurance company wants to solve several tasks with the help o
 1. Exploratory Data Analysis 
 2. Obfuscating Data using linear algebra 
 3. model bulding and training 
-4, Data scaling 
+4. Data scaling 
